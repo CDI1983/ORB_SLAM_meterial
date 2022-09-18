@@ -1,0 +1,3 @@
+/mnt/d/ClionCppPrograma/homework/ch2/task2/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/ClionCppPrograma/homework/ch2/task2/build/CMakeFiles/randomMatrix.dir
+/mnt/d/ClionCppPrograma/homework/ch2/task2/build/CMakeFiles/edit_cache.dir
